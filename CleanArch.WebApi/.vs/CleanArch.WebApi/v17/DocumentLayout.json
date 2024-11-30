@@ -1,0 +1,209 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Senac\\Documents\\Projects\\CleanArch\\CleanArch.WebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8330F2B3-2F01-47B3-B649-C67B1D5077BD}|CleanArch.WebApi.csproj|c:\\users\\senac\\documents\\projects\\cleanarch\\cleanarch.webapi\\controllers\\purchasesummarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8330F2B3-2F01-47B3-B649-C67B1D5077BD}|CleanArch.WebApi.csproj|solutionrelative:controllers\\purchasesummarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE1B9EDB-E536-4C23-978E-E18AB936C118}|..\\CleanArch.Infra\\CleanArch.Infra.csproj|c:\\users\\senac\\documents\\projects\\cleanarch\\cleanarch.infra\\repositories\\purchasesummaryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE1B9EDB-E536-4C23-978E-E18AB936C118}|..\\CleanArch.Infra\\CleanArch.Infra.csproj|c:\\users\\senac\\documents\\projects\\cleanarch\\cleanarch.infra\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE1B9EDB-E536-4C23-978E-E18AB936C118}|..\\CleanArch.Infra\\CleanArch.Infra.csproj|c:\\users\\senac\\documents\\projects\\cleanarch\\cleanarch.infra\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B182A9C-27BC-45D4-AEE2-C72538960BB8}|..\\CleanArch.Application\\CleanArch.Application.csproj|c:\\users\\senac\\documents\\projects\\cleanarch\\cleanarch.application\\services\\purchasesummaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B182A9C-27BC-45D4-AEE2-C72538960BB8}|..\\CleanArch.Application\\CleanArch.Application.csproj|c:\\users\\senac\\documents\\projects\\cleanarch\\cleanarch.application\\dtos\\purchasedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE1B9EDB-E536-4C23-978E-E18AB936C118}|..\\CleanArch.Infra\\CleanArch.Infra.csproj|c:\\users\\senac\\documents\\projects\\cleanarch\\cleanarch.infra\\configuration\\customerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4C8748-288D-47F6-BF87-FF38A95B72EC}|..\\CleanArch.Domain\\CleanArch.Domain.csproj|c:\\users\\senac\\documents\\projects\\cleanarch\\cleanarch.domain\\interfaces\\ipurchasesummaryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4C8748-288D-47F6-BF87-FF38A95B72EC}|..\\CleanArch.Domain\\CleanArch.Domain.csproj|c:\\users\\senac\\documents\\projects\\cleanarch\\cleanarch.domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8330F2B3-2F01-47B3-B649-C67B1D5077BD}|CleanArch.WebApi.csproj|c:\\users\\senac\\documents\\projects\\cleanarch\\cleanarch.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8330F2B3-2F01-47B3-B649-C67B1D5077BD}|CleanArch.WebApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B182A9C-27BC-45D4-AEE2-C72538960BB8}|..\\CleanArch.Application\\CleanArch.Application.csproj|c:\\users\\senac\\documents\\projects\\cleanarch\\cleanarch.application\\interfaces\\ipurchasesummaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE1B9EDB-E536-4C23-978E-E18AB936C118}|..\\CleanArch.Infra\\CleanArch.Infra.csproj|c:\\users\\senac\\documents\\projects\\cleanarch\\cleanarch.infra\\configuration\\customerpurchaseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PurchaseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Senac\\Documents\\Projects\\CleanArch\\CleanArch.Application\\Dtos\\PurchaseDto.cs",
+              "RelativeDocumentMoniker": "..\\CleanArch.Application\\Dtos\\PurchaseDto.cs",
+              "ToolTip": "C:\\Users\\Senac\\Documents\\Projects\\CleanArch\\CleanArch.Application\\Dtos\\PurchaseDto.cs",
+              "RelativeToolTip": "..\\CleanArch.Application\\Dtos\\PurchaseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T22:35:52.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Senac\\Documents\\Projects\\CleanArch\\CleanArch.Infra\\Configuration\\CustomerConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\CleanArch.Infra\\Configuration\\CustomerConfiguration.cs",
+              "ToolTip": "C:\\Users\\Senac\\Documents\\Projects\\CleanArch\\CleanArch.Infra\\Configuration\\CustomerConfiguration.cs",
+              "RelativeToolTip": "..\\CleanArch.Infra\\Configuration\\CustomerConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-02-27T00:46:30.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Senac\\Documents\\Projects\\CleanArch\\CleanArch.Infra\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "..\\CleanArch.Infra\\Repositories\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\Senac\\Documents\\Projects\\CleanArch\\CleanArch.Infra\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "..\\CleanArch.Infra\\Repositories\\BaseRepository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAADwvyAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-02-19T23:32:40.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PurchaseSummaryService.cs",
+              "DocumentMoniker": "C:\\Users\\Senac\\Documents\\Projects\\CleanArch\\CleanArch.Application\\Services\\PurchaseSummaryService.cs",
+              "RelativeDocumentMoniker": "..\\CleanArch.Application\\Services\\PurchaseSummaryService.cs",
+              "ToolTip": "C:\\Users\\Senac\\Documents\\Projects\\CleanArch\\CleanArch.Application\\Services\\PurchaseSummaryService.cs",
+              "RelativeToolTip": "..\\CleanArch.Application\\Services\\PurchaseSummaryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-02-20T15:02:05.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Senac\\Documents\\Projects\\CleanArch\\CleanArch.Infra\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\CleanArch.Infra\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Senac\\Documents\\Projects\\CleanArch\\CleanArch.Infra\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\CleanArch.Infra\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-02-19T23:00:46.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PurchaseSummaryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Senac\\Documents\\Projects\\CleanArch\\CleanArch.Infra\\Repositories\\PurchaseSummaryRepository.cs",
+              "RelativeDocumentMoniker": "..\\CleanArch.Infra\\Repositories\\PurchaseSummaryRepository.cs",
+              "ToolTip": "C:\\Users\\Senac\\Documents\\Projects\\CleanArch\\CleanArch.Infra\\Repositories\\PurchaseSummaryRepository.cs",
+              "RelativeToolTip": "..\\CleanArch.Infra\\Repositories\\PurchaseSummaryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-02-20T18:09:59.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PurchaseSummaryController.cs",
+              "DocumentMoniker": "C:\\Users\\Senac\\Documents\\Projects\\CleanArch\\CleanArch.WebApi\\Controllers\\PurchaseSummaryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PurchaseSummaryController.cs",
+              "ToolTip": "C:\\Users\\Senac\\Documents\\Projects\\CleanArch\\CleanArch.WebApi\\Controllers\\PurchaseSummaryController.cs",
+              "RelativeToolTip": "Controllers\\PurchaseSummaryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-02-27T00:24:54.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPurchaseSummaryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Senac\\Documents\\Projects\\CleanArch\\CleanArch.Domain\\Interfaces\\IPurchaseSummaryRepository.cs",
+              "RelativeDocumentMoniker": "..\\CleanArch.Domain\\Interfaces\\IPurchaseSummaryRepository.cs",
+              "ToolTip": "C:\\Users\\Senac\\Documents\\Projects\\CleanArch\\CleanArch.Domain\\Interfaces\\IPurchaseSummaryRepository.cs",
+              "RelativeToolTip": "..\\CleanArch.Domain\\Interfaces\\IPurchaseSummaryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-02-20T15:14:07.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Senac\\Documents\\Projects\\CleanArch\\CleanArch.Domain\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "..\\CleanArch.Domain\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Senac\\Documents\\Projects\\CleanArch\\CleanArch.Domain\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "..\\CleanArch.Domain\\Interfaces\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-02-27T00:01:46.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Senac\\Documents\\Projects\\CleanArch\\CleanArch.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Senac\\Documents\\Projects\\CleanArch\\CleanArch.WebApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-02-27T01:00:39.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomerPurchaseConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Senac\\Documents\\Projects\\CleanArch\\CleanArch.Infra\\Configuration\\CustomerPurchaseConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\CleanArch.Infra\\Configuration\\CustomerPurchaseConfiguration.cs",
+              "ToolTip": "C:\\Users\\Senac\\Documents\\Projects\\CleanArch\\CleanArch.Infra\\Configuration\\CustomerPurchaseConfiguration.cs",
+              "RelativeToolTip": "..\\CleanArch.Infra\\Configuration\\CustomerPurchaseConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-02-27T00:51:41.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IPurchaseSummaryService.cs",
+              "DocumentMoniker": "C:\\Users\\Senac\\Documents\\Projects\\CleanArch\\CleanArch.Application\\Interfaces\\IPurchaseSummaryService.cs",
+              "RelativeDocumentMoniker": "..\\CleanArch.Application\\Interfaces\\IPurchaseSummaryService.cs",
+              "ToolTip": "C:\\Users\\Senac\\Documents\\Projects\\CleanArch\\CleanArch.Application\\Interfaces\\IPurchaseSummaryService.cs",
+              "RelativeToolTip": "..\\CleanArch.Application\\Interfaces\\IPurchaseSummaryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-02-20T01:26:43.771Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

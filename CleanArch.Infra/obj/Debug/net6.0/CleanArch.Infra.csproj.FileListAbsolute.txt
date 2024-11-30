@@ -1,0 +1,17 @@
+C:\Users\Senac\Documents\Projects\CleanArch\CleanArch.Infra\bin\Debug\net6.0\CleanArch.Infra.deps.json
+C:\Users\Senac\Documents\Projects\CleanArch\CleanArch.Infra\bin\Debug\net6.0\CleanArch.Infra.runtimeconfig.json
+C:\Users\Senac\Documents\Projects\CleanArch\CleanArch.Infra\bin\Debug\net6.0\CleanArch.Infra.dll
+C:\Users\Senac\Documents\Projects\CleanArch\CleanArch.Infra\bin\Debug\net6.0\CleanArch.Infra.pdb
+C:\Users\Senac\Documents\Projects\CleanArch\CleanArch.Infra\bin\Debug\net6.0\CleanArch.Domain.dll
+C:\Users\Senac\Documents\Projects\CleanArch\CleanArch.Infra\bin\Debug\net6.0\CleanArch.Domain.pdb
+C:\Users\Senac\Documents\Projects\CleanArch\CleanArch.Infra\obj\Debug\net6.0\CleanArch.Infra.csproj.AssemblyReference.cache
+C:\Users\Senac\Documents\Projects\CleanArch\CleanArch.Infra\obj\Debug\net6.0\CleanArch.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senac\Documents\Projects\CleanArch\CleanArch.Infra\obj\Debug\net6.0\CleanArch.Infra.AssemblyInfoInputs.cache
+C:\Users\Senac\Documents\Projects\CleanArch\CleanArch.Infra\obj\Debug\net6.0\CleanArch.Infra.AssemblyInfo.cs
+C:\Users\Senac\Documents\Projects\CleanArch\CleanArch.Infra\obj\Debug\net6.0\CleanArch.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Senac\Documents\Projects\CleanArch\CleanArch.Infra\obj\Debug\net6.0\CleanArch.Infra.csproj.CopyComplete
+C:\Users\Senac\Documents\Projects\CleanArch\CleanArch.Infra\obj\Debug\net6.0\CleanArch.Infra.dll
+C:\Users\Senac\Documents\Projects\CleanArch\CleanArch.Infra\obj\Debug\net6.0\refint\CleanArch.Infra.dll
+C:\Users\Senac\Documents\Projects\CleanArch\CleanArch.Infra\obj\Debug\net6.0\CleanArch.Infra.pdb
+C:\Users\Senac\Documents\Projects\CleanArch\CleanArch.Infra\obj\Debug\net6.0\CleanArch.Infra.genruntimeconfig.cache
+C:\Users\Senac\Documents\Projects\CleanArch\CleanArch.Infra\obj\Debug\net6.0\ref\CleanArch.Infra.dll
